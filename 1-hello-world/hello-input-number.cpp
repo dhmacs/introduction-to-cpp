@@ -1,3 +1,5 @@
+// A program that adds to numbers
+
 #include <iostream>
 
 int main() {
