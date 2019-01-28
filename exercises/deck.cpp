@@ -1,4 +1,4 @@
-// A game with a deck of cards!
+// A game with a deck of cards
 #include <iostream>
 #include <string>
 using namespace std;
